@@ -32,3 +32,7 @@ h1_ = el "h1"
 
 p1_ :: String -> String
 p1_ = el "p"
+
+a_ :: String -> String
+a_ = el "a"
+
